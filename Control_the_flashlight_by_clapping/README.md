@@ -1,4 +1,3 @@
-```markdown
 # Controlling Lamp with Applause
 
 <div align="center">
