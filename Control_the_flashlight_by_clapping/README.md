@@ -6,9 +6,8 @@
     </a>
 </div>
 
-
 # <i color="#00979C"> Project Overview <i color="#F9F9F9">
-<p dir="auto">Welcome to the Redmi file! This project allows you to control a lamp using applause detected by a sound sensor. It's an exciting and interactive way to turn the lamp on and off effortlessly.</p>
+Welcome to the Redmi file! This project allows you to control a lamp using applause detected by a sound sensor. It's an exciting and interactive way to turn the lamp on and off effortlessly.
 
 # <i color="#00979C"> Project Setup <i color="#F9F9F9">
 To implement this project, you'll need the following components:
