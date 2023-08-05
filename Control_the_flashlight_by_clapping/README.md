@@ -1,8 +1,11 @@
 # Controlling Lamp with Applause
 
 <div align="center">
-<a href="https://imgur.com/pTPH4T9"><img src="https://i.imgur.com/pTPH4T9.png" title="source: imgur.com" /></a>
+    <a href="https://imgur.com/pTPH4T9">
+        <img src="https://i.imgur.com/pTPH4T9.png" title="source: imgur.com" width="700" height="400" />
+    </a>
 </div>
+
 
 ## Project Overview
 
