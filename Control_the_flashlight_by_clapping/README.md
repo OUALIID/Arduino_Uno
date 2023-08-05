@@ -33,11 +33,6 @@ void loop() {
     // Main functionality to control the lamp...
 }
 ```
-
-<div align="center">
-  <img src="applause_image.jpg" alt="Applause Image" width="150">
-</div>
-
 ## Understanding the Logic
 
 The sound sensor detects applause by measuring sound levels above a certain threshold. When you clap or produce applause near the sensor, it sends a signal to the Arduino board. The Arduino then checks the current state of the lamp (on or off) and toggles it accordingly. The lamp's status is tracked using the variable "led_status."
