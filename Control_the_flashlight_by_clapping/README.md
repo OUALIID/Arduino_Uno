@@ -1,4 +1,4 @@
-# Controlling Lamp with Applause
+<h1><div align="center"><i>Hack Your Home: Arduino Applause-Controlled Smart Lamp! <img src="https://i.imgur.com/rNPy3OE.gif" width="45"></i></div></h1>
 
 <div align="center">
     <a href="https://imgur.com/pTPH4T9">
