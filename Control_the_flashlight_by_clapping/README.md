@@ -56,4 +56,3 @@ Ready to try it out? Gather the components, upload the code to your Arduino, and
         Your browser does not support the video tag.
     </video>
 </div>
-
