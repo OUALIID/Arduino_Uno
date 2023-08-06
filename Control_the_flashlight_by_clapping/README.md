@@ -47,10 +47,13 @@ Feel free to customize the code to add more features or adjust the sensitivity o
 # <i color="#00979C"> Get Started <i color="#F9F9F9">
 Ready to try it out? Gather the components, upload the code to your Arduino, and witness the magic of controlling the lamp with applause!
 
+
+
 <h3><div align="center"><i color="#00979C"> Applause-Controlled Smart Lamp Demo <i color="#F9F9F9"></i></div></h3>
 <div align="center">
-    <a href="https://imgur.com/pTPH4T9">
-        <img src="/home/oualid/Desktop/project_alx/Arduino_Uno/Control_the_flashlight_by_clapping/Arduino.mp4" title="source: imgur.com" width="700" height="400" />
-    </a>
+    <video width="700" height="400" controls>
+        <source src="https://i.imgur.com/gnHGsaY.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
 </div>
 
