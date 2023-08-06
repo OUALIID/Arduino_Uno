@@ -7,4 +7,3 @@
 
 
 
-<img src="Arduino.gif">
