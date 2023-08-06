@@ -15,7 +15,7 @@ To implement this project, you'll need the following components:
 - Sound sensor
 - breadboard
 - Resistance
-- Led
+- Lamp
 - Wires for connections
 
 # <i color="#00979C"> How It Works <i color="#F9F9F9">
