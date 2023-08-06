@@ -6,4 +6,7 @@
 </div></h3>
 
 
-<a href="https://imgur.com/gnHGsaY"><img src="https://i.imgur.com/gnHGsaY.mp4" title="source: imgur.com" /></a>
+
+<div class="container" id="videoContainer">
+        <video src="Arduino.mp4" class="circular-image" controls autoplay onended="showAudioButton()"></video>
+    </div>
