@@ -52,7 +52,7 @@ Ready to try it out? Gather the components, upload the code to your Arduino, and
 <h3><div align="center"><i color="#00979C"> Applause-Controlled Smart Lamp Demo <i color="#F9F9F9"></i></div></h3>
 <div align="center">
     <video width="700" height="400" controls>
-        <source src="https://i.imgur.com/gnHGsaY.mp4" type="video/mp4">
+        <source src="/home/oualid/Desktop/project_alx/Arduino_Uno/Control_the_flashlight_by_clapping/Arduino.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 </div>
