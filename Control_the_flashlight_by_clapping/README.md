@@ -23,8 +23,8 @@ The Arduino code reads data from the sound sensor, and when it detects applause 
 
 ```cpp
 int sensor_pin = 7;
-int led = 6;
-String led_status = "off";
+int lamp = 6;
+String lamp_status = "off";
 
 void setup() {
     // Pin setup and initialization...
@@ -36,13 +36,13 @@ void loop() {
 ```
 
 # <i color="#00979C"> Understanding the Logic <i color="#F9F9F9">
-The sound sensor detects applause by measuring sound levels above a certain threshold. When you clap or produce applause near the sensor, it sends a signal to the Arduino board. The Arduino then checks the current state of the lamp (on or off) and toggles it accordingly. The lamp's status is tracked using the variable "led_status."
+The sound sensor detects applause by measuring sound levels above a certain threshold. When you clap or produce applause near the sensor, it sends a signal to the Arduino board. The Arduino then checks the current state of the lamp (on or off) and toggles it accordingly. The lamp's status is tracked using the variable "lamp_status."
 
 
 # <i color="#00979C"> Customization <i color="#F9F9F9">
 Feel free to customize the code to add more features or adjust the sensitivity of the sound sensor. Experiment with different sound levels to find the perfect setting for your applause-controlled lamp!
 
-**Note:** You can further enhance the project by adding LEDs to indicate the lamp's state or incorporating other sensors for different control mechanisms.
+**Note:** You can further enhance the project by adding Lamps to indicate the lamp's state or incorporating other sensors for different control mechanisms.
 
 
 # <i color="#00979C"> Get Started <i color="#F9F9F9">
