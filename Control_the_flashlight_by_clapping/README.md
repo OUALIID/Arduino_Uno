@@ -13,9 +13,10 @@ Welcome to the Redmi file! This project allows you to control a lamp using appla
 To implement this project, you'll need the following components:
 - Arduino board
 - Sound sensor
-- Lamp
+- breadboard
+- Resistance
+- Led
 - Wires for connections
-
 
 # <i color="#00979C"> How It Works <i color="#F9F9F9">
 The Arduino code reads data from the sound sensor, and when it detects applause or a loud sound, it triggers an action to toggle the lamp's state.
