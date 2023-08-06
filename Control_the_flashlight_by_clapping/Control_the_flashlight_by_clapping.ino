@@ -1,7 +1,8 @@
 /*===============================================
-         Control the flashlight by clapping
-        => Clap to light the flashlight
-        => Clap again to turn off the flashlight
+Control the flashlight by clapping
+=> Clap once to turn on the flashlight
+=> Clap again to turn off the flashlight
+Please wait for one second after the first clap before clapping again.
 ===============================================*/
 
 int sensor_pin = 7;         // Sound sensor connected to digital pin 7
