@@ -1,4 +1,4 @@
-<h1><div align="center"><i>The ultimate guide to understanding how to program and use Arduino microcontroller<img src="./PICS/hello.webp" width="30"></i></div></h1>
+<h1><div align="center"><i>The ultimate guide to understanding how to program and use Arduino microcontroller<img src="https://i.imgur.com/YaEBPHV.gif" width="40"></i></div></h1>
 
 <div align="center">          
 <img src="https://i.imgur.com/08w5tSY.jpg" alt="coding" width="900px" height="420px" /></div>
