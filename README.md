@@ -1,7 +1,7 @@
 <h1><div align="center"><i>The ultimate guide to understanding how to program and use Arduino microcontroller<img src="./PICS/hello.webp" width="30"></i></div></h1>
 
 <div align="center">          
-<img src="https://i.imgur.com/08w5tSY.jpg" alt="coding" width="900px" height="500px" /></div>
+<img src="https://i.imgur.com/08w5tSY.jpg" alt="coding" width="900px" height="420px" /></div>
 
 # <i><div align="center"><i>╔═══════<i color="#00979C"> Introduction <i color="#F9F9F9"> ═══════╗</i></div>
 <em><div align="center"><code>Arduino is a popular open-source electronics platform based on easy-to-use hardware and software. In this guide, we will cover the definition, history, technical specifications, advantages and disadvantages, programming fundamentals, understanding the Arduino microcontroller, and programming languages for Arduino development.</code></em></div>
